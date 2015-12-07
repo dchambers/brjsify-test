@@ -1,4 +1,6 @@
 node_modules
+brjs/libs/javascript/@dchambers-es6-module
+brjs/libs/javascript/dchambers-es6-module
 brjs/libs/javascript/fbjs
 brjs/libs/javascript/process
 brjs/libs/javascript/react
