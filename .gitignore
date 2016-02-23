@@ -1,8 +1,8 @@
 node_modules
-brjs/libs/javascript/@dchambers-es6-module
-brjs/libs/javascript/dchambers-es6-module
-brjs/libs/javascript/fbjs
-brjs/libs/javascript/process
-brjs/libs/javascript/react
-brjs/libs/javascript/redux
+sdk/libs/javascript/@dchambers-es6-module
+sdk/libs/javascript/dchambers-es6-module
+sdk/libs/javascript/fbjs
+sdk/libs/javascript/process
+sdk/libs/javascript/react
+sdk/libs/javascript/redux
 brjsify-program.js
